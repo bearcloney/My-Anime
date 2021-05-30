@@ -6,7 +6,7 @@ n#odejs一直装不上，索性又在docker里装notejs，docker版来部署cq-p
 &nbsp;
 
 # 准备：
-## 拉取部署CentOS_7、node.jsPython
+拉取部署CentOS_7、node.jsPython
 
 1. 使用docker拉取centos7；node.js；python镜像（不用rss可以不下python）
 ```
