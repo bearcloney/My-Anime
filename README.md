@@ -112,7 +112,7 @@ cnpm i
 ```
 npm run test
 ```
-# * RSS
+* # RSS
 * 配置ELF_RSS
 ```
 docker exec -it rss/ bin/bash
