@@ -32,8 +32,8 @@ docker run --restart always -itd --net host --name rss python:latest /bin/bash
 
 `docker ps`
 
-# go-cqhttp配置安装
-
+# GO
+* go-cqhttp配置安装
 1. 访问容器内centos7
 ```
 docker exec -it go/ bin/bash
@@ -87,7 +87,30 @@ docker exec -it go/ bin/bash
 
 __登录后退出窗口,go-cqhttp留在后台__
 
-(可选)
-* 安装ffmpeg使go-cqhttp可以发送其他格式的语音和视频,番剧预览视频发送需要用到    
+* (可选)  安装ffmpeg使go-cqhttp可以发送其他格式的语音和视频,番剧预览视频发送需要用到    
 `yum install -y ffmpeg`
+
+# PIC
+* 配置node.js中的cq-picsearcher-bot
+
+1. 新开页面，访问nodejs
+```
+docker exec -it nodejs/ bin/bash
+```
+2. 获取cq-picsearcher-bot项目,默认最新版本 __需要特殊网络环境__
+```
+git clone https://github.com/Tsuk1ko/cq-picsearcher-bot && cd cq-picsearcher-bot && cp config.default.jsonc config.jsonc
+```
+3. 安装依赖
+```
+npm i -g cnpm --registry=https://registry.npm.taobao.org
+```
+```
+cnpm i
+```
+4. 运行测试
+```
+npm run test
+```
+
 
