@@ -88,6 +88,6 @@ docker exec -it go/ bin/bash
 __登录后退出窗口,go-cqhttp留在后台__
 
 (可选)
- 安装ffmpeg使go-cqhttp可以发送其他格式的语音和视频,番剧预览视频发送需要用到    
+* 安装ffmpeg使go-cqhttp可以发送其他格式的语音和视频,番剧预览视频发送需要用到    
 `yum install -y ffmpeg`
 
