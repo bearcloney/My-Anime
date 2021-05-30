@@ -5,7 +5,7 @@ n#odejs一直装不上，索性又在docker里装notejs，docker版来部署cq-p
 
 &nbsp;
 
-# 准备
+* # 准备
 * __拉取部署CentOS_7、node.jsPython__
 
 1. 使用docker拉取centos7；node.js；python镜像（不用rss可以不下python）
@@ -32,7 +32,7 @@ docker run --restart always -itd --net host --name rss python:latest /bin/bash
 
 `docker ps`
 
-# GO
+* # GO
 * go-cqhttp配置安装
 1. 访问容器内centos7
 ```
@@ -90,7 +90,7 @@ __登录后退出窗口,go-cqhttp留在后台__
 * (可选)  安装ffmpeg使go-cqhttp可以发送其他格式的语音和视频,番剧预览视频发送需要用到    
 `yum install -y ffmpeg`
 
-# PIC
+* # PIC
 * 配置node.js中的cq-picsearcher-bot
 
 1. 新开页面，访问nodejs
