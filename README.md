@@ -11,7 +11,7 @@ n#odejs一直装不上，索性又在docker里装notejs，docker版来部署cq-p
 ```
     `Docker pull centos:7`      
 ```
-    `Docker pull node:latest`       
+     `Docker pull node:latest`       
 ```
     `Docker pull python:latest`     
 ```
