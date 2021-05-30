@@ -23,6 +23,6 @@ n#odejs一直装不上，索性又在docker里装notejs，docker版来部署cq-p
 
 `docker run --restart always -itd --net host --name rss python:latest /bin/bash`
 
-# 查看容器运行状态
+ __*查看容器运行状态__
 
 `docker ps`
