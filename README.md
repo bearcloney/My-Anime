@@ -65,7 +65,8 @@ __开始部署go-cqhttp__
 
     `docker exec -it go/ bin/bash`
   
-* 首次运行__择2.正向WS__
+* 首次运行__选择2.正向WS__
+
  `./go-cqhttp/go-cqh择2.正向WSttp faststart`
  
  
