@@ -25,7 +25,7 @@ n#odejs一直装不上，索性又在docker里装notejs，docker版来部署cq-p
 
  __*查看容器运行状态__
 
-     `docker ps`
+      `docker ps`
 
 ## go-cqhttp配置安装
 
