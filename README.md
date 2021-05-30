@@ -112,7 +112,7 @@ cnpm i
 ```
 npm run test
 ```
-# RSS
+#* RSS
 * 配置ELF_RSS
 ```
 docker exec -it rss/ bin/bash
@@ -120,6 +120,8 @@ docker exec -it rss/ bin/bash
 
  安装完成，请修改配置文件 .env.prod
 
-运行nb run
-
+运行
+```
+nb run
+```
 
