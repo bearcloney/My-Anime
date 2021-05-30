@@ -25,27 +25,27 @@ n#odejs一直装不上，索性又在docker里装notejs，docker版来部署cq-p
 
  __*查看容器运行状态__
 
-`docker ps`
+    `docker ps`
 
 ## go-cqhttp配置安装
 
 1. 访问容器内centos7
 
-`docker exec -it go/ bin/bash`
+    `docker exec -it go/ bin/bash`
 
 2. 安装wget,git,screen这几个命令
 
-`yum install -y wget git screen`
+    `yum install -y wget git screen`
 
 __开始部署go-cqhttp__
 
 1. 新建窗口
 
-`screen -S qq`
+    `screen -S qq`
 
 2. 新建文件夹并进入
 
-`mkdir go-cqhttp && cd go-cqhttp`
+    `mkdir go-cqhttp && cd go-cqhttp`
 
 3. 访问go-cqhttp的[[releases]](https://github.com/Mrs4s/go-cqhttp/releases)页面获取最新版本
 右键 go-cqhttp_linux_arm64.tar.gz 复制下载链接
