@@ -9,19 +9,19 @@ n#odejs一直装不上，索性又在docker里装notejs，docker版来部署cq-p
 
 1. 使用docker拉取centos7；node.js；python镜像（不用rss可以不下python）
 
-   `Docker pull centos:7`
+    `Docker pull centos:7`
 
-   `Docker pull node:latest`
+    `Docker pull node:latest`
   
-   `Docker pull python:latest`
+    `Docker pull python:latest`
 
 2. 创建容器centos7&nodejs&python
 
-`docker run --restart always -itd --net host --name go centos:7 /bin/bash`
+    `docker run --restart always -itd --net host --name go centos:7 /bin/bash`
 
-`docker run --restart always -itd --net host --name pic node:latest /bin/bash`
+    `docker run --restart always -itd --net host --name pic node:latest /bin/bash`
 
-`docker run --restart always -itd --net host --name rss python:latest /bin/bash`
+    `docker run --restart always -itd --net host --name rss python:latest /bin/bash`
 
  __*查看容器运行状态__
 
