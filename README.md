@@ -32,7 +32,7 @@ docker run --restart always -itd --net host --name rss python:latest /bin/bash
 
 `docker ps`
 
-## go-cqhttp配置安装
+# go-cqhttp配置安装
 
 1. 访问容器内centos7
 ```
@@ -76,6 +76,8 @@ docker exec -it go/ bin/bash
  ``` 
  ./go-cqhttp/go-cqh择2.正向WSttp faststar
  ```
- 草
- 
+5.编辑生成的config.yml（如需要rss，请先到此[配置文件]](https://github.com/Quan666/ELF_RSS/blob/2.0/docs/%E9%83%A8%E7%BD%B2%E6%95%99%E7%A8%8B.md)界面复制修改配置文件）
+
+* 根据注释填写QQ号与QQ密码,QQ号不需要引号,QQ密码需要,其余保持默认
+
  
