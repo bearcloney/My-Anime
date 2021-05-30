@@ -62,8 +62,8 @@ __开始部署go-cqhttp__
   
 * 首次运行__选择2.正向WS__
 
- `./go-cqhttp/go-cqh择2.正向WSttp faststart`
+ ```./go-cqhttp/go-cqh择2.正向WSttp faststart
  
- 
+ 草
  
  
