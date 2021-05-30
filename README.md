@@ -50,8 +50,7 @@ __开始部署go-cqhttp__
 
  ~~什么 下载不了?那你怎么访问的GitHub~~
  
-    `tar -zxvf go-cqhttp_linux_arm64.tar.gz`
-
+    `tar -zxvf go-cqhttp_linux_arm64.tar.gz`        
     `chmod -R 700 ./go-cqhttp`
 
  4. __需要运行一遍使其生成默认配置文件__
