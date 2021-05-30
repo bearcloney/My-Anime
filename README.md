@@ -80,4 +80,14 @@ docker exec -it go/ bin/bash
 
 * 根据注释填写QQ号与QQ密码,QQ号不需要引号,QQ密码需要,其余保持默认
 
- 
+6.再次运行go-cqhttp
+```
+./go-cqhttp faststart
+```
+
+__登录后退出窗口,go-cqhttp留在后台__
+
+(可选)
+ 安装ffmpeg使go-cqhttp可以发送其他格式的语音和视频,番剧预览视频发送需要用到    
+`yum install -y ffmpeg`
+
