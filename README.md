@@ -50,13 +50,13 @@ __开始部署go-cqhttp__
 3. 访问go-cqhttp的[[releases]](https://github.com/Mrs4s/go-cqhttp/releases)页面获取最新版本
 右键 go-cqhttp_linux_arm64.tar.gz 复制下载链接
 
- `wget [粘贴链接]`
+    `wget [粘贴链接]`
 
  ~~什么 下载不了?那你怎么访问的GitHub~~
  
- `tar -zxvf go-cqhttp_linux_arm64.tar.gz`
+    `tar -zxvf go-cqhttp_linux_arm64.tar.gz`
 
- `chmod -R 700 ./go-cqhttp`
+    `chmod -R 700 ./go-cqhttp`
 
  4. __需要运行一遍使其生成默认配置文件__
 ​   新开个窗口重新进入centos7~~不知到怎么退出screen -S qq~~
