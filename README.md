@@ -59,13 +59,13 @@ __开始部署go-cqhttp__
     `chmod -R 700 ./go-cqhttp`
 
  4. __需要运行一遍使其生成默认配置文件__
-​   新开个窗口重新进入centos7~~不知到怎么退出screen -S qq~~
+* 新开个窗口重新进入centos7~~不知到怎么退出screen -S qq~~
 
-​   重新访问centos
+* 重新访问centos
 
     `docker exec -it go/ bin/bash`
   
-​   首次运行__择2.正向WS__
+* 首次运行__择2.正向WS__
  `./go-cqhttp/go-cqh择2.正向WSttp faststart`
  
  
