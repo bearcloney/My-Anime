@@ -133,7 +133,7 @@ docker exec -it go/ bin/bash
 
 1.配置ELF_RSS
 
-* 下载[*代码*](https://github.com/Quan666/ELF_RSS/releases)到本地，解压
+* 下载[__代码__](https://github.com/Quan666/ELF_RSS/releases)到本地，解压
 
 ~~憨憨操作，由于不知道docker-python文件夹在哪，决定用查找文件方式~~
 进入python
