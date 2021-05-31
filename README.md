@@ -12,3 +12,17 @@ n#odejs一直装不上，索性又在docker里装notejs，docker版来部署cq-p
 
 > * [部署教程](部署方式.md)
 > * [启动方式](启动方式.md)
+
+
+
+
+
+## 感谢以下项目或服务
+
+不分先后
+
+* [RSSHub](https://github.com/DIYgod/RSSHub)
+* [Nonebot](https://github.com/nonebot/nonebot2)
+* [酷Q（R. I. P）](https://cqp.cc/)
+* [coolq-http-api](https://github.com/richardchien/coolq-http-api)
+* [go-cqhttp](https://github.com/Mrs4s/go-cqhttp)
