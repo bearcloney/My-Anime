@@ -71,7 +71,7 @@ chmod -R 700 ./go-cqhttp
 ```
 docker exec -it go/ bin/bash
   ```
-* 首次运行　__选择2.正向WS__
+* 首次运行　__*选择2.正向WS__
 
  ``` 
  ./go-cqhttp/go-cqh择2.正向WSttp faststar
