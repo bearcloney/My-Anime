@@ -59,7 +59,7 @@ mkdir go-cqhttp && cd go-cqhttp
 3. 访问go-cqhttp的[[releases]](https://github.com/Mrs4s/go-cqhttp/releases)页面获取最新版本
 右键 go-cqhttp_linux_arm64.tar.gz 复制下载链接
 ```
-wget [粘贴链接]`
+wget [粘贴链接]
 ```
  ~~什么 下载不了?那你怎么访问的GitHub~~
 ```
