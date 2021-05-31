@@ -10,8 +10,11 @@ n#odejs一直装不上，索性又在docker里装notejs，docker版来部署cq-p
 > 注意
 >
 
+> * [固件获取](固件获取.md)
 > * [部署教程](部署方式.md)
-> * [启动方式](启动方式.md)
+> * [搜图拓展](搜图拓展.md)
+> * [常用操作](常用操作.md)
+
 
 
 ![](https://github.com/bearcloney/Megumi-bot/blob/main/another/megumi.jpg)
