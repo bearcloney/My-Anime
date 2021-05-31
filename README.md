@@ -16,16 +16,16 @@ n#odejs一直装不上，索性又在docker里装notejs，docker版来部署cq-p
 > * [注意事项](注意事项.md)
 > * [参考帮助](参考帮助.md)
 
-常用操作
-> 进入容器
-* GO： `docker exec -it go/ bin/bash`      
-* RSS：`docker exec -it rss/ bin/bash`      
-* PIC：`docker exec -it pic/ bin/bash`      
-
-> 启动      
-* GO： `./go-cqhttp/go-cqhttp faststart`     
-* RSS：`cd cq-picsearcher-bot`  `npm run test`     
-* PIC：`cd ELF_RSS-x.x.x`       `nb run`
+>常用操作
+>> 进入容器
+>>* GO： `docker exec -it go/ bin/bash`      
+>>* RSS：`docker exec -it rss/ bin/bash`      
+>>* PIC：`docker exec -it pic/ bin/bash`      
+>
+>> 启动      
+>>* GO： `./go-cqhttp/go-cqhttp faststart`     
+>>* RSS：`cd cq-picsearcher-bot`  `npm run test`     
+>>* PIC：`cd ELF_RSS-x.x.x`       `nb run`
 
 
 
