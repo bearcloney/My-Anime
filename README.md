@@ -33,6 +33,9 @@ docker run --restart always -itd --net host --name rss python:latest /bin/bash
 
 `docker ps`
 
+
+&nbsp;
+
 * # GO
 * go-cqhttp配置安装
 1. 访问容器内centos7
@@ -128,8 +131,6 @@ docker exec -it go/ bin/bash
 配置文件参考
 
    * [配置文件](https://github.com/Quan666/ELF_RSS/blob/2.0/docs/%E9%83%A8%E7%BD%B2%E6%95%99%E7%A8%8B.md/)
-
-&nbsp;
 
 1. 下载
 
