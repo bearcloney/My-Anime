@@ -116,12 +116,12 @@ npm run test
 * 配置ELF_RSS
 
 0. 进入centos修改go-cqhttp配置文件   
-
-* docker exec -it go/ bin/bash
-
+```
+docker exec -it go/ bin/bash
+```
 配置文件参考
 
-[配置文件](https://github.com/Quan666/ELF_RSS/blob/2.0/docs/%E9%83%A8%E7%BD%B2%E6%95%99%E7%A8%8B.md/)
+    [配置文件](https://github.com/Quan666/ELF_RSS/blob/2.0/docs/%E9%83%A8%E7%BD%B2%E6%95%99%E7%A8%8B.md/)
 
 ```
 docker exec -it rss/ bin/bash
