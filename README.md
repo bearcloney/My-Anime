@@ -137,7 +137,7 @@ docker exec -it rss/ bin/bash
 新建憨批文件夹   
 `mkdir hanpi`
 
-新开页面寻找憨批文件夹 *如果不新建页面搜索只能看到文件在根目录*
+新开页面寻找憨批文件夹 *如果不新建页面搜索只能看到文件在根目录*   
 `find / -iname "hanpi"`   
 
 找到对应根目录放入解压好的ELF_RSS-x.x.x
