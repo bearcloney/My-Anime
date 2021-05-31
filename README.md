@@ -90,6 +90,8 @@ __登录后退出窗口,go-cqhttp留在后台__
 * (可选)  安装ffmpeg使go-cqhttp可以发送其他格式的语音和视频,番剧预览视频发送需要用到    
 `yum install -y ffmpeg`
 
+&nbsp;
+
 * # PIC
 * 配置node.js中的cq-picsearcher-bot
 
@@ -113,6 +115,8 @@ cnpm i
 npm run test
 ```
 
+&nbsp;
+
 * # RSS
 * 配置ELF_RSS
 
@@ -124,6 +128,7 @@ docker exec -it go/ bin/bash
 
    * [配置文件](https://github.com/Quan666/ELF_RSS/blob/2.0/docs/%E9%83%A8%E7%BD%B2%E6%95%99%E7%A8%8B.md/)
 
+&nbsp;
 
 1.配置ELF_RSS
 
