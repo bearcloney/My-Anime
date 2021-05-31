@@ -133,31 +133,40 @@ docker exec -it go/ bin/bash
 
 1.配置ELF_RSS
 
-下载[代码](https://github.com/Quan666/ELF_RSS/releases)到本地，解压
+* 下载[代码](https://github.com/Quan666/ELF_RSS/releases)到本地，解压
 
 ~~憨憨操作，由于不知道docker-python文件夹在哪，决定用查找文件方式~~
 进入python
 ```
 docker exec -it rss/ bin/bash
 ```
-新建憨批文件夹   
+* 新建憨批文件夹   
 `mkdir hanpi`
 
-新开页面寻找憨批文件夹 *如果不新建页面搜索只能看到文件在根目录*   
+* 新开页面寻找憨批文件夹 *如果不新建页面搜索只能看到文件在根目录*   
 `find / -iname "hanpi"`   
 
-找到对应根目录放入解压好的ELF_RSS-x.x.x
+* 回来找到对应根目录，放入解压好的ELF_RSS-x.x.x
+x.x.x
+* 进入文件夹编辑
+```
+cd ELF_RSS-x.x.x
+```
+```
+pip install -r requirements.txt
+```
 
-运行 pip install -r requirements.txt
+* 复制 .env.dev 文件，并改名为 .env.prod ，按照注释修改配置   
+`cp .env.dev .env.prod`
 
-复制 .env.dev 文件，并改名为 .env.prod ，按照注释修改配置
-2. 启动
-
- 安装完成，请修改配置文件 .env.prod
-
-运行
-
+* __启动__
 ```
 nb run
 ```
+
+
+
+
+
+
 
