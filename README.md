@@ -8,12 +8,9 @@ n#odejs一直装不上，索性又在docker里装notejs，docker版来部署cq-p
 
 |          周一           |           周二            |              周三               |          周四           |           周五            |              周六               |              周日               |
 | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-
-|              [jerrykuku](https://github.com/jerrykuku)               |              [lisaac](https://github.com/lisaac)               |              [rufengsuixing](https://github.com/rufengsuixing)               |
-
-|              [ElonH](https://github.com/ElonH)               |              [NateLol](https://github.com/NateLol)               |              [garypang13](https://github.com/garypang13)               |
-
-|              [AmadeusGhost](https://github.com/AmadeusGhost)               |              [1715173329](https://github.com/1715173329)               |              [vernesong](https://github.com/vernesong)               |
+|              [jerrykuku](https://github.com/jerrykuku)               |              [lisaac](https://github.com/lisaac)               |              [rufengsuixing](https://github.com/rufengsuixing)               |              [jerrykuku](https://github.com/jerrykuku)               |              [lisaac](https://github.com/lisaac)               |
+|              [ElonH](https://github.com/ElonH)               |              [NateLol](https://github.com/NateLol)               |              [garypang13](https://github.com/garypang13)               |              [jerrykuku](https://github.com/jerrykuku)               |              [lisaac](https://github.com/lisaac)               |
+|              [AmadeusGhost](https://github.com/AmadeusGhost)               |              [1715173329](https://github.com/1715173329)               |              [vernesong](https://github.com/vernesong)               |              [jerrykuku](https://github.com/jerrykuku)               |              [lisaac](https://github.com/lisaac)               |
 
 > 注意
 >
